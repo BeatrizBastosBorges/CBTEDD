@@ -1,0 +1,29 @@
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/bin/Debug/net8.0/Projeto Medicamento
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/bin/Debug/net8.0/Projeto Medicamento.deps.json
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/bin/Debug/net8.0/Projeto Medicamento.runtimeconfig.json
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/bin/Debug/net8.0/Projeto Medicamento.dll
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/bin/Debug/net8.0/Projeto Medicamento.pdb
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.AssemblyInfoInputs.cache
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.AssemblyInfo.cs
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.csproj.CoreCompileInputs.cache
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.dll
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/refint/Projeto Medicamento.dll
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.pdb
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/Projeto Medicamento.genruntimeconfig.cache
+/home/legium/Estrutura de Dados/Projeto Medicamento/Projeto Medicamento/obj/Debug/net8.0/ref/Projeto Medicamento.dll
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\bin\Debug\net8.0\Projeto Medicamento.exe
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\bin\Debug\net8.0\Projeto Medicamento.deps.json
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\bin\Debug\net8.0\Projeto Medicamento.runtimeconfig.json
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\bin\Debug\net8.0\Projeto Medicamento.dll
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\bin\Debug\net8.0\Projeto Medicamento.pdb
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.sourcelink.json
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.dll
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\refint\Projeto Medicamento.dll
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.pdb
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\Projeto Medicamento.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Projeto Medicamento\Projeto Medicamento\obj\Debug\net8.0\ref\Projeto Medicamento.dll

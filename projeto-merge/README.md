@@ -1,6 +1,4 @@
-<div align="center"><h1>Projeto Merge</h1></div>
-<br>
-<div align="justify">
+# Projeto Merge
 
 Elabore um programa que permita digitar 30 números inteiros.
 
@@ -12,7 +10,4 @@ Finalizada a digitação dos 30 números, os valores deverão ser desempilhados 
 
 Obs: Desenvolver essa solução implementando as pilhas em forma de lista encadeada e de vetor.
 
-<br><br>
-
-<b>Desenvolvido por:</b> Beatriz Bastos Borges e Miguel Luizatto Alves
-</div>
+Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
